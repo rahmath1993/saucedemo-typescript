@@ -1,4 +1,4 @@
-@runner01
+@login
 Feature: Login
 
         Background:
